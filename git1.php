@@ -6,6 +6,7 @@
 </head>
 <body>
 <?php echo 'Githubにpush'; ?>
+<?php echo 'コミットします'; ?>
 </body>
 </html>
 
